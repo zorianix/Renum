@@ -6,3 +6,8 @@ Renum perform recon related to a domain listing
 4)Web Technology/CMS Identification
 5)Robots.txt content
 6)Common Sensitive/ Interesting Files enumeration
+
+
+
+# Denominator
+Denominator gathers subdomain information for give domain, from multiple sources.
